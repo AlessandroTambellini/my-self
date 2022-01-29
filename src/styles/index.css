@@ -1,0 +1,9 @@
+:root {
+  /* colors */
+  --clr-js-yellow: 52, 84%, 63%;
+  --clr-bg-dark: 220, 13%, 18%;
+}
+
+body {
+  background-color: hsl(var(--clr-bg-dark));
+}
