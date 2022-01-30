@@ -1,3 +1,15 @@
+header > h1 {
+  font-family: "Cedarville Cursive", cursive;
+}
+
+header > h1 span {
+  font-family: "Fira Code", monospace;
+  color: hsl(var(--clr-str-orange));
+}
+
 nav > a {
   color: hsl(var(--clr-js-yellow));
+  font-size: 3rem;
+  font-family: "Fira Code", monospace;
+  text-decoration: none;
 }
